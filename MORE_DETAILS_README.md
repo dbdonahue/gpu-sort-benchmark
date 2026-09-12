@@ -452,6 +452,7 @@ gpu-sort-benchmark/
 |-- sort_scaling_flexible.py
 |-- README.md
 |-- MORE_DETAILS_README.md
+|-- LICENSE
 |-- results/
 |   `-- benchmark output files
 |
@@ -502,6 +503,6 @@ The benchmark should therefore be treated as an engineering characterization of 
 
 # License
 
-No license has been selected yet.
+This project is licensed under the **BSD Zero Clause License (0BSD)**. See [LICENSE](LICENSE).
 
-If this repository is intended for public reuse, add an explicit license before others rely on the code.
+0BSD allows use, copying, modification, and redistribution for any purpose, with or without fee, and does not impose a downstream attribution requirement.
