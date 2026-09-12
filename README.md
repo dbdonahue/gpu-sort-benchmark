@@ -284,6 +284,7 @@ gpu-sort-benchmark/
 ├── sort_scaling_flexible.py
 ├── README.md
 ├── MORE_DETAILS_README.md
+├── LICENSE
 ├── results/
 │   └── benchmark output files
 └── archive/
@@ -303,4 +304,6 @@ The 32 GiB external histogram/counting-sort and conventional external-merge comp
 
 ## License
 
-No license has been selected yet. Add an explicit license before relying on this repository for public redistribution or reuse.
+This project is licensed under the **BSD Zero Clause License (0BSD)**. See [LICENSE](LICENSE).
+
+0BSD permits use, copying, modification, and redistribution for any purpose, with or without fee, and does not require downstream attribution.
